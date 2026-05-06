@@ -1,0 +1,21 @@
+F:\Project\Windows Simple DashBoard\bin\Release\net8.0-windows\win-x64\Windows Simple DashBoard.exe
+F:\Project\Windows Simple DashBoard\bin\Release\net8.0-windows\win-x64\Windows Simple DashBoard.deps.json
+F:\Project\Windows Simple DashBoard\bin\Release\net8.0-windows\win-x64\Windows Simple DashBoard.runtimeconfig.json
+F:\Project\Windows Simple DashBoard\bin\Release\net8.0-windows\win-x64\Windows Simple DashBoard.dll
+F:\Project\Windows Simple DashBoard\bin\Release\net8.0-windows\win-x64\Windows Simple DashBoard.pdb
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\MainWindow.baml
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\MainWindow.g.cs
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\App.g.cs
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard_MarkupCompile.cache
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard_MarkupCompile.lref
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\App.baml
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard.g.resources
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard.AssemblyInfoInputs.cache
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard.AssemblyInfo.cs
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard.csproj.CoreCompileInputs.cache
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard.dll
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\refint\Windows Simple DashBoard.dll
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard.pdb
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\Windows Simple DashBoard.genruntimeconfig.cache
+F:\Project\Windows Simple DashBoard\obj\Release\net8.0-windows\win-x64\ref\Windows Simple DashBoard.dll

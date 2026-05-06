@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <Version>1.0.0</Version>
+
+    <!-- 단일 파일 배포 핵심 설정 -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+    <!-- .NET 8 런타임이 설치된 PC라면 false가 용량이 작음 -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <ReadyToRun>true</ReadyToRun>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <ApplicationIcon>Dashboard.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Dashboard.png" />
+    <None Remove="Miku_Jirai.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Dashboard.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Dashboard.png" />
+    <Resource Include="Miku_Jirai.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>
