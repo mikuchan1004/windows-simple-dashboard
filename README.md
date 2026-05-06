@@ -1,7 +1,7 @@
 # 🚀 Windows Simple Dashboard
 
 [![Framework](https://img.shields.io/badge/.NET-8.0-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/download/dotnet/8.0)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mikuchan1004/windows-simple-dashboard?color=brightgreen&logo=github)](https://github.com/mikuchan1004/windows-simple-dashboard/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/mikuchan1004/windows-simple-dashboard?color=brightgreen&logo=github)](https://github.com/mikuchan1004/windows-simple-dashboard/releases/latest)
 [![VirusTotal Check](https://img.shields.io/badge/VirusTotal-Clean-blue?logo=virustotal)](https://www.virustotal.com/gui/file/e787ea6a6d78b50ab2c95afd3b3e7738da40668c4569ef661913f11c848bbd54?nocache=1)
 [![Collaborated with Gemini](https://img.shields.io/badge/Collaborated%20with-Gemini-4285F4?logo=google-gemini&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
