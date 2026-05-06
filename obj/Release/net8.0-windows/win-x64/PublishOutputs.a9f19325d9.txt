@@ -1,2 +1,0 @@
-F:\Project\Windows Simple DashBoard\Publish\Windows Simple DashBoard.pdb
-F:\Project\Windows Simple DashBoard\Publish\Windows Simple DashBoard.exe
