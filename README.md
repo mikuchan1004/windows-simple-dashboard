@@ -8,6 +8,8 @@
 
 **Windows Simple Dashboard**는 .NET 8.0 및 WPF 기반의 경량 시스템 모니터링 도구입니다. 복잡한 설정 없이 PC의 주요 리소스 상태를 직관적으로 파악할 수 있도록 설계되었습니다.
 
+**이 프로젝트는 SystemCareSuite에 통합되었습니다. (https://github.com/mikuchan1004/SystemCareSuite)**
+
 ---
 
 ### 🎨 Preview
